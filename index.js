@@ -24,7 +24,4 @@ function shout(string) {
     console.log(string.toLowerCase()
     );
   }
-  function sayHiToHeadphonedRoommate(string)
-  if ( example === example.toLowerCase() { 
-    return "I can't hear you!";
-  } else if (Let's have dinner together! === I would love to!.toUpperCase()) 
+  
